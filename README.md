@@ -68,3 +68,15 @@ Este projeto propõe um sistema de gerenciamento para bibliotecas, visando otimi
    - ID (PK, int)
    - Nome (varchar)
    - Endereço (varchar)
+
+#### Modelagem Física:
+
+
+#### Dados:
+
+
+#### CRUD:
+
+
+#### Relatórios:
+  
